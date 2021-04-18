@@ -10,6 +10,6 @@ jobs:
       - uses: actions/setup-node@v1
       - name: Run Prettier
         run: make prettier
-      - uses: stefanzweifel/git-auto-commit-action@v3.0.0
+      - uses: stefanzweifel/git-auto-commit-action@v4.0.0
         with:
           commit_message: Apply Prettier Change
