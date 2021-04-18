@@ -1,4 +1,4 @@
-![prettier](https://github.com/github/fictionbase/web-ui/workflows/main.yml/badge.svg)
+![prettier](https://github.com/fictionbase/web-ui/actions/workflows/main.yml/badge.svg)
 
 # webUI
 fictionbase webUI
