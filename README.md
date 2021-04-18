@@ -1,6 +1,4 @@
-https://github.com/fictionbase/web-ui/actions/workflows/main/badge.svg
-
-~/src/github.com/fictionbase/web-ui
+![prettier](https://github.com/github/fictionbase/web-ui/workflows/main.yml/badge.svg)
 
 # webUI
 fictionbase webUI
