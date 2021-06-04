@@ -13,7 +13,7 @@ $ npm install
 $ npm install -g @aws-amplify/cli
 ```
 
-``
+```
 $ amplify init
 ? Initialize the project with the above configuration? (Y/n) Y
 ? Select the authentication method you want to use: AWS profile
